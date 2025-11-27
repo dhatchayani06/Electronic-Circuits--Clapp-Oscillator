@@ -44,7 +44,7 @@ PC with LT Spice software
 
 36.	
 37.	## OUTPUTS:
-38.	[WhatsApp Image 2025-11-24 at 14 40 07_0f93b79e](https://github.com/user-attachments/assets/e66cbef4-af50-4278-9f36-95f88aa8d47a)
+38.![WhatsApp Image 2025-11-27 at 20 34 44_caea31ef](https://github.com/user-attachments/assets/405945dc-50d9-49cd-850e-9d09a1e0c279)
 
 
 
